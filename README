@@ -1,5 +1,5 @@
 This class was designed to test whether storing data in a file or storing data in a database will allow the fastest requests.
 
-The results can be found on the following URL: 
+The results can be found on the following URL: http://filadeatras.com/2011/05/15/benchmarking-de-sistema-antispam/
 
 There is also an scaffolding function to fill the database with numbers.
